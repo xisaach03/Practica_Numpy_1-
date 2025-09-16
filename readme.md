@@ -12,7 +12,7 @@ Cada pareja anote sus nombres en el ejercicio que escogieron:
 
 1. **Numpy_Array_Exercises_2_Students.ipynb** : Integrantes
 2. **Numpy_Histogram_Exercise_Students.ipynb** : Ximena
-3. **Numpy_Matplotlib_Exercises_Students.ipynb** : Integrantes     
+3. **Numpy_Matplotlib_Exercises_Students.ipynb** : Josue, Diego   
 4. **Numpy_Pie_Exercise_Students.ipynb** : Sofía, Karen 
 5. **Numpy_Random_Numbers_Exercises_Students.ipynb** : Integrantes  
 6. **Numpy_Read_Files_Exercises_Students.ipynb** : Angel, Javier 
