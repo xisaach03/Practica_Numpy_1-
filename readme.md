@@ -15,6 +15,6 @@ Cada pareja anote sus nombres en el ejercicio que escogieron:
 3. **Numpy_Matplotlib_Exercises_Students.ipynb** : Integrantes     
 4. **Numpy_Pie_Exercise_Students.ipynb** : Integrantes  
 5. **Numpy_Random_Numbers_Exercises_Students.ipynb** : Integrantes  
-6. **Numpy_Read_Files_Exercises_Students.ipynb** : Integrantes  
+6. **Numpy_Read_Files_Exercises_Students.ipynb** : Angel, Javier 
 7. **Numpy_Bar_Exercise_Students.ipynb** : Integrantes
 
