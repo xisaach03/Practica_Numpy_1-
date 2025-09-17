@@ -16,5 +16,5 @@ Cada pareja anote sus nombres en el ejercicio que escogieron:
 4. **Numpy_Pie_Exercise_Students.ipynb** : Sofía, Karen 
 5. **Numpy_Random_Numbers_Exercises_Students.ipynb** : Integrantes  
 6. **Numpy_Read_Files_Exercises_Students.ipynb** : Angel, Javier 
-7. **Numpy_Bar_Exercise_Students.ipynb** : Integrantes
+7. **Numpy_Bar_Exercise_Students.ipynb** : Jesus
 
